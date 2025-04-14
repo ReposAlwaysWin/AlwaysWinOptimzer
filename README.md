@@ -1,7 +1,12 @@
-# AlwaysWinOptimzer
+# Initialize.
 The best Free Optimizer For Windows.
+ * Support
+   (https://discord.gg/PWRyZBu8py)
+
 # This is safe?
 Yes, this is only windows features you dont use and you can revert the options 😊.
+
+
 # Can i get ban if i optimize my game?
 No, this app dont modify your game only if game opened disable services and programs in secound plan, and config the game for best fps.
 # How i can help the project?
